@@ -1,7 +1,4 @@
 # AI-Music-Pipeline
-
-可以。根据你的五个脚本和项目目标，帮你写一个简洁的 README：
-
 ```markdown
 # AI-Music-Pipeline
 
