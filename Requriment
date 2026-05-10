@@ -1,0 +1,10 @@
+numpy
+soundfile
+librosa
+pyloudnorm
+scikit-learn
+torch
+panns-inference
+openai
+pyyaml
+tqdm
